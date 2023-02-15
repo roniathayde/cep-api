@@ -10,9 +10,9 @@
 
 ### Tecnologias utilizadas
 
-    * HTML
-    * CSS
-    * JS
-        * Promise
-        * Fetch API
-        * DOM API
+* HTML
+* CSS
+* JS
+* Promise
+* Fetch API
+* DOM API
